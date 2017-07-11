@@ -1,0 +1,10 @@
+Hash: 8795ef33faf737fe734e
+Version: webpack 3.1.0
+Time: 4430ms
+    Asset    Size  Chunks                    Chunk Names
+bundle.js  252 kB       0  [emitted]  [big]  main
+   [9] (webpack)/buildin/global.js 509 bytes {0} [built]
+  [70] (webpack)/buildin/module.js 517 bytes {0} [built]
+  [94] multi ./index.js 28 bytes {0} [built]
+  [95] ./index.js 46 bytes {0} [built]
+    + 195 hidden modules
